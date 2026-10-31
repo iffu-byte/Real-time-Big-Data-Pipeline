@@ -131,3 +131,5 @@ http://127.0.0.1:5000/
 * **Streaming Architecture**: Explains how streaming micro-batches simulate real-time message queues (like Kafka or RabbitMQ) in a lightweight local Python environment.
 * **Isolation Forest Choice**: Isolation Forest isolates anomalies by randomly selecting a feature and splitting values. Unsupervised tree partitioning makes it ideally suited for high-speed streaming without requiring labeled anomaly data.
 * **Feature Engineering in Micro-batches**: Demonstrates how rolling windows and real-time aggregation compute metrics on the fly without database bottlenecks.
+
+Intern id:CITS9576
